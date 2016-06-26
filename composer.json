@@ -1,0 +1,21 @@
+{
+    "name": "denismitr/facebookfeed",
+    "description": "FacebookFeed API for Laravel",
+    "license": "MIT",
+    "keywords": ["laravel", "facebook"],
+    "authors": [
+        {
+            "name": "Denis Mitrofanov",
+            "email": "denis.mitr@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Denismitr\\FacebookFeed\\": "src/"
+        }
+    }
+}
