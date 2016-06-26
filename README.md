@@ -12,8 +12,8 @@ to `config/app.php` the __facades__ array
 
 At this moment there are two main methods in the FacebookFeed API:
 
-*[image](#Upload an image)
-*[link](#Send a link to a webpage)
+* [image](#Upload an image)
+* [link](#Send a link to a webpage)
 
 ###Upload an image
 
@@ -40,10 +40,10 @@ There are three __exception classes__:
 
 The environment variables must be set like so:
 
-*FACEBOOK_ID=your facebook id
-*FACEBOOK_SECRET=your facebook secret key
-*FACEBOOK_API=v2.6
-*FACEBOOK_TOKEN=your facebook token
+* FACEBOOK_ID=your facebook id
+* FACEBOOK_SECRET=your facebook secret key
+* FACEBOOK_API=v2.6
+* FACEBOOK_TOKEN=your facebook token
 
 ##Important
 
